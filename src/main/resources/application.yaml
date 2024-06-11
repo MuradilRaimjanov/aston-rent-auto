@@ -1,1 +1,10 @@
-spring.application.name=rent-auto-service1
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/rentauto
+    username: postgres
+    password: murad
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create
