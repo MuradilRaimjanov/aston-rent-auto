@@ -30,6 +30,7 @@ public class AuthController {
 
     @PatchMapping("/forgot-password")
     public ResponseEntity<?> forgotPassword(@RequestParam String email) {
+        System.out.print("HelloWorld")
         return null;
     }
 
