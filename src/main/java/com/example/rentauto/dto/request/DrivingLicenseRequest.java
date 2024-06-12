@@ -1,2 +1,4 @@
-package com.example.rentauto.dto.request;public class DrivingLicenseRequest {
+package com.example.rentauto.dto.request;
+
+public class DrivingLicenseRequest {
 }

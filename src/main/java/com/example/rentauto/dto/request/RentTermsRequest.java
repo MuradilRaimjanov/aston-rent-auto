@@ -1,2 +1,4 @@
-package com.example.rentauto.dto.request;public class RentTermsRequest {
+package com.example.rentauto.dto.request;
+
+public class RentTermsRequest {
 }

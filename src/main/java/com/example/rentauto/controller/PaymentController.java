@@ -1,2 +1,4 @@
-package com.example.rentauto.controller;public class PaymentController {
+package com.example.rentauto.controller;
+
+public class PaymentController {
 }

@@ -1,2 +1,4 @@
-package com.example.rentauto.dto.request;public class PaymentRequest {
+package com.example.rentauto.dto.request;
+
+public class PaymentRequest {
 }

@@ -1,2 +1,4 @@
-package com.example.rentauto.dto.response;public class PaymentResponse {
+package com.example.rentauto.dto.response;
+
+public class PaymentResponse {
 }

@@ -1,2 +1,4 @@
-package com.example.rentauto.controller;public class FavoriteController {
+package com.example.rentauto.controller;
+
+public class FavoriteController {
 }
