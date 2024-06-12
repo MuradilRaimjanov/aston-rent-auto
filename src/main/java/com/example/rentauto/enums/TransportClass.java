@@ -2,9 +2,9 @@ package com.example.rentauto.enums;
 
 public enum TransportClass {
 
-    ECONOMY("Эконом"),
-    COMFORT("Комфорт"),
-    BUSINESS("Бизнес"),
+    ECONOMY("Эконом"),// 1200
+    COMFORT("Комфорт"),// 1500
+    BUSINESS("Бизнес"),//
     PREMIUM("Premium"),
     OFFROAD("Внедорожник"),
     MINIVAN("Минивэн"),
